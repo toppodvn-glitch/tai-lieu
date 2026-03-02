@@ -64,7 +64,7 @@ export default function App() {
           </div>
           
           <h1 className="text-5xl lg:text-6xl font-extrabold tracking-tight leading-[1.1] mb-6">
-            Làm chủ kỹ năng <span className="text-indigo-600">ABC</span> chỉ trong 7 ngày.
+            Làm chủ kỹ năng <span className="text-indigo-600">ABC</span> chỉ trong 10 ngày.
           </h1>
           
           <p className="text-lg text-slate-600 mb-8 leading-relaxed max-w-lg">
